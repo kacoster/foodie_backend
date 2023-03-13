@@ -1,5 +1,5 @@
 
-# foodie Backend
+# Foodie Backend
 
 A simple express api backend service for digital restaurent dishes
 
